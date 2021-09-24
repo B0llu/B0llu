@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development**
 
-- 👨‍💻 All of my projects are available at [https://bollu.netlify.app/](https://bollu.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://bollu.netlify.app/](https://dhruv-samant.netlify.app/blogs)
 
 - 📫 How to reach me **samantdhruv@gmail.com**
 
