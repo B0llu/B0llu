@@ -19,7 +19,7 @@
 
 - 🔭 I’m currently working on React and JavaScript
  
-- 👨‍💻 All of my projects are available at [https://dhruv-samant.netlify.app/](https://dhruv-samant.netlify.app/)
+- 👨‍💻 All of my projects are available at <br/> [https://dhruv-samant.netlify.app/](https://dhruv-samant.netlify.app/)
 
 - 🌱 I’m currently learning Full Stack Web Development 
 
