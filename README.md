@@ -12,7 +12,7 @@
 <div size='20px'> Hi! My name is Dhruv.A passionate frontend developer from India. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
-<h2> About Me <img src = "https://ih1.redbubble.net/image.349512266.7576/st,small,507x507-pad,600x600,f8f8f8.jpg" width = 50px></h2>
+<h2> About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
