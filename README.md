@@ -3,7 +3,7 @@
 <img width="100%" height = "300px" src="https://64.media.tumblr.com/d188b7f3ad01a687f33f71b5ff30e359/tumblr_org7ji1X5H1vnpq1xo5_1280.png" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 5rem> </h1>
 <p align='center'>
 
 </p>
